@@ -8,15 +8,15 @@ The purpose of this exercise was to create a website using javascript and CSS to
 
 * The Full webpage includes a header with a photo background, a blurb explaining the purpose of the page, and a filter table to search for sighting data
 
-![full_page.png](https://github.com/mcwatts88/UFOs/blob/main/images/full_page.jpg)
+![full_page.png](https://github.com/mcwatts88/UFOs/blob/main/images/full_page.png)
 
 * Filter Box
 
-![filter_box.png](https://github.com/mcwatts88/UFOs/blob/main/images/filter_box.jpg)
+![filter_box.PNG](https://github.com/mcwatts88/UFOs/blob/main/images/filter_box.PNG)
 
 * Example of a Search
 
-![search.png](https://github.com/mcwatts88/UFOs/blob/main/images/search.jpg)
+![search.PNG](https://github.com/mcwatts88/UFOs/blob/main/images/search.PNG)
 
 * Instructions
 
